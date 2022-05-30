@@ -2,6 +2,10 @@ h1{
     text-align: center;
     font-weight: 800;
 }
+p{
+    text-align: center;
+    font-weight: 500;
+}
 .container{
     position: absolute;
     top: 50%;
